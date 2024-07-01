@@ -1,4 +1,6 @@
-# Build Onchain Apps Template experiences
+# This project was created based on the OnChaiKit Resources to Build Onchain Apps Template Experiences
+
+- Here there are some steps to configure it correctly for any use case you can envision.
 
 ## Getting Started
 
