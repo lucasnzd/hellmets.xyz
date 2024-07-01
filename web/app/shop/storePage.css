@@ -1,0 +1,56 @@
+.mainContainerShop {
+    width: 100%;
+    margin: 0;
+}
+
+.BikeBackgroundShop {
+    width: 100vw;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Hellmet3D {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Hellmet3DIframe {
+    width: 750px;
+    height: 500px;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    top: 50px;
+    left: calc(calc(100vw / 2) - 375px);
+}
+
+.mainTitleShop {
+    font-size: 50px;
+    margin: 0px auto;
+    padding-top: 100px;
+    font-weight: bold;
+    width: 100vw;
+    text-align: center;
+}
+
+.containerSection {
+    text-align: center;
+    padding: 5rem 0;
+    width: 100vw;
+    border: 1px solid white;
+}
+
+.sectionTitle {
+    font-size: 55px;
+    margin: 0px auto;
+    padding: 0px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.firstStep {
+    margin-top: 50px;
+}
