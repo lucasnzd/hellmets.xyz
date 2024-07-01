@@ -1,15 +1,10 @@
 import { useCallback, useState } from 'react';
 import {
-  ChevronDownIcon,
   Cross1Icon,
-  GitHubLogoIcon,
   HamburgerMenuIcon,
 } from '@radix-ui/react-icons';
-import * as NavigationMenu from '@radix-ui/react-navigation-menu';
-import { clsx } from 'clsx';
 import AccountConnect from './AccountConnect';
-import { Experiences } from './Experiences';
-import { NavbarLink, NavbarTitle } from './Navbar';
+import { NavbarTitle } from './Navbar';
 
 export default function NavbarMobile() {
   const [isMobileMenuOpen, setMobileMenuOpen] = useState(false);

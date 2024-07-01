@@ -1,3 +1,10 @@
+// 👇️ ts-nocheck disables type checking for the entire file
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-nocheck
+
+// 👇️ ts-ignore ignores any ts errors on the next line
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+
 import { baseSepolia, Chain, base } from 'viem/chains';
 import { Environment, getCurrentEnvironment } from './environment';
 

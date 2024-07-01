@@ -29,23 +29,17 @@ export default function HomePage() {
             <iframe
               className="Bike3DIframe"
               title="Yamaha R1M"
-              frameborder="0"
-              allowfullscreen
-              mozallowfullscreen="true"
-              webkitallowfullscreen="true"
+              allowFullScreen
               allow="autoplay; fullscreen; xr-spatial-tracking"
               xr-spatial-tracking execution-while-out-of-viewport
               execution-while-not-rendered
               web-share
-              src="https://sketchfab.com/models/cc5e33e96a6241afa88ec00cd6867b80/embed?autospin=1&autostart=1&ui_hint=0&dnt=1">
-            </iframe>
+              src="https://sketchfab.com/models/cc5e33e96a6241afa88ec00cd6867b80/embed?autospin=1&autostart=1&ui_hint=0&dnt=1" />
           </div>
         </div>
 
         <div className="containerSection">
-          <div className="HelmetGearSection">
-
-          </div>
+          <div className="HelmetGearSection" />
           <div>
             <h2 className="sectionTitle text-xl font-normal text-white">
               A B O U T
@@ -62,9 +56,7 @@ export default function HomePage() {
         </div>
 
         <div className="containerSection">
-          <div className="HelmetGearSection">
-            
-          </div>
+          <div className="HelmetGearSection" />
           <div>
             <h2 className="sectionTitle text-xl font-normal text-white">
               V I S I O N
@@ -81,9 +73,7 @@ export default function HomePage() {
         </div>
 
         <div className="containerSection">
-          <div className="HelmetGearSection">
-            
-          </div>
+          <div className="HelmetGearSection" />
           <div>
             <h2 className="sectionTitle text-xl font-normal text-white">
               M I S S I O N
@@ -97,9 +87,7 @@ export default function HomePage() {
         </div>
 
         <div className="containerSection">
-          <div className="HelmetGearSection">
-            
-          </div>
+          <div className="HelmetGearSection" />
           <div>
             <h2 className="sectionTitle text-xl font-normal text-white">
               S T O R E

@@ -25,27 +25,21 @@ export default function ShopPage() {
         </h1>
 
         <div className="container BikeBackgroundShop">
-          <div class="Hellmet3D sketchfab-embed-wrapper">
+          <div className="Hellmet3D sketchfab-embed-wrapper">
             <iframe
               className="Hellmet3DIframe"
               title="F1 Helmet ZhouGuanyu ChineseGP Helmet"
-              frameborder="0"
-              allowfullscreen
-              mozallowfullscreen="true"
-              webkitallowfullscreen="true"
+              allowFullScreen
               allow="autoplay; fullscreen; xr-spatial-tracking"
               xr-spatial-tracking execution-while-out-of-viewport
               execution-while-not-rendered
               web-share
-              src="https://sketchfab.com/models/31f9f2c1e83c4eac9f444d73a853b2a9/embed?autospin=1&autostart=1&dnt=1">
-            </iframe>
+              src="https://sketchfab.com/models/31f9f2c1e83c4eac9f444d73a853b2a9/embed?autospin=1&autostart=1&dnt=1" />
           </div>
         </div>
 
         <div className="containerSection">
-          <div className="HelmetGearSection">
-
-          </div>
+          <div className="HelmetGearSection" />
           <div>
             <div className="firstStep">
               <h2 className="sectionTitle text-xl font-normal text-white">
@@ -62,9 +56,7 @@ export default function ShopPage() {
         </div>
 
         <div className="containerSection">
-          <div className="HelmetGearSection">
-            
-          </div>
+          <div className="HelmetGearSection" />
           <div>
             <h2 className="sectionTitle text-xl font-normal text-white">
               H E L M E T - S I Z E
@@ -78,9 +70,7 @@ export default function ShopPage() {
         </div>
 
         <div className="containerSection">
-          <div className="HelmetGearSection">
-            
-          </div>
+          <div className="HelmetGearSection" />
           <div>
             <h2 className="sectionTitle text-xl font-normal text-white">
               D U R A B I L I T Y - R A T E: 85%
@@ -89,9 +79,7 @@ export default function ShopPage() {
         </div>
 
         <div className="containerSection">
-          <div className="HelmetGearSection">
-            
-          </div>
+          <div className="HelmetGearSection" />
           <div>
             <h2 className="sectionTitle text-xl font-normal text-white">
               BUY
